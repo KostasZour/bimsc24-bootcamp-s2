@@ -1,0 +1,52 @@
+html{
+
+background-color: black;
+color: blueviolet;
+font-size: large;
+
+}
+
+body{
+
+margin: 0;
+
+}
+
+div{
+
+    box-sizing: border-box;
+}
+
+
+#navbar{
+
+    height: 80px;
+
+}
+
+#flex{
+
+display: flex;
+height: calc(100vh - 50px);
+
+}
+
+#sidebar{
+
+    width: 30%;
+}
+
+
+#main{
+
+width: 70%;
+}
+
+
+.container{
+
+border-style: dotted;
+border-color: rgb(214, 35, 35);
+border-width: 5px;
+
+}
